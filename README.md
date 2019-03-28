@@ -1,4 +1,4 @@
-# tourismmanagementsystem
+# TourismManagementSystem
 This project is aimed at developing a responsive website for a tourism and travel agencies,
 that want to expand their business to the world of internet.
 While the focous of the project lies on devoloping a website,
